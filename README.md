@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-As a part of my refresher course on Codecademy, In this project,I created an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. I created routes to manage 'minions', some brilliant 'million dollar ideas', and to handle all the meetings added to ones schedule.
+As a part of my refresher course on Codecademy, In this project, I created an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. I created routes to manage 'minions', some brilliant 'million dollar ideas', and to handle all the meetings added to ones schedule.
 
 You can view a video demonstration of the final app here:
 
