@@ -6,11 +6,7 @@ As a part of my refresher course on Codecademy, In this project, I created an en
 
 You can view a video demonstration of the final app here:
 
-<video width="100%" height="100%" controls>
-   <source src="https://s3.amazonaws.com/codecademy-content/programs/build-apis/solution-videos/BossMachine480.mov" type="video/mp4">
- The markdown processor does not support the video tag.
-</video>
-
+https://s3.amazonaws.com/codecademy-content/programs/build-apis/solution-videos/BossMachine480.mov
 
 ## Implementation Details
 
